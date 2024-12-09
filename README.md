@@ -23,4 +23,4 @@ Throughout the season, McLaren and Ferrari have been locked in a fierce contest 
 
 ## Data Source
 
-All race data used in this project is retrieved from the publicly available FastF1 API, which uses official F1 data under open-source conditions. This ensures transparent and reliable insights without any proprietary or restricted sources.
+All race data used in this project is retrieved from the publicly available FastF1 API, which uses official F1 data under open-source conditions. 
